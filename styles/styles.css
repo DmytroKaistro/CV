@@ -186,6 +186,15 @@ body {
     line-height: 24px;
 }
 
+.download-link {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
 @keyframes grow {
     from  {
         opacity: 0;
